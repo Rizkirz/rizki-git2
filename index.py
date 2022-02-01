@@ -1,3 +1,4 @@
 print("Hello")
 var = 1 + 1
-print(var)
+ver = 2 + 2
+print(var + ver)
